@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TelevisionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-11-25T20:03:39" hostname="klints-MacBook-Air.local" time="0.0090">
+  <properties/>
+  <testcase name="canBeTurnedOn" classname="TelevisionTest" time="0.0080"/>
+  <testcase name="isOffByDefault" classname="TelevisionTest" time="0.0"/>
+  <testcase name="changeSettings" classname="TelevisionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
